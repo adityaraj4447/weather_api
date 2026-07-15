@@ -1,0 +1,5 @@
+API_KEY='74d3c73a94534a2e4eff012cb9ac5158'
+CITY='Dhanbad'
+CSV_FILE = 'weather_data.csv'
+EXCEL_FILE = 'weather_data.xlsx'
+XML_FILE = 'weather_data.xml'
